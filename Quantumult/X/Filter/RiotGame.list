@@ -1,5 +1,7 @@
 // RiotGame
 USER-AGENT,*wildrift*,RiotGame
 USER-AGENT,*wildrift/3387*,RiotGame
-DOMAIN-SUFFIX,riotgames.com,RiotGame
+DOMAIN-SUFFIX,riotcdn.net,RiotGame
+DOMAIN-SUFFIX,wr.pvp.net,RiotGame
+DOMAIN-SUFFIX,akamaihd.net,RiotGame
 DOMAIN-KEYWORD,riotgames,RiotGame
