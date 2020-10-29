@@ -1,0 +1,5 @@
+// RiotGame
+USER-AGENT,*wildrift*,RiotGame
+USER-AGENT,*wildrift/3387*,RiotGame
+DOMAIN-SUFFIX,riotgames.com,RiotGame
+DOMAIN-KEYWORD,riotgames,RiotGame
